@@ -24,7 +24,7 @@
 <div align="center" width="70%">
 	<img src="https://img.shields.io/badge/bash-%23.svg?&style=for-the-badge&logo=gnubash&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/c++-%23.svg?&style=for-the-badge&logo=cplusplus&logoColor=F8F8F2&color=44475A">
-	<img src="https://img.shields.io/badge/c languaje-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/c language-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/rust-%23.svg?&style=for-the-badge&logo=rust&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/python-%23.svg?&style=for-the-badge&logo=python&logoColor=F8F8F2&color=44475A">
