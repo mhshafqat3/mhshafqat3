@@ -13,7 +13,7 @@
 <h2 align="center">Technologies I Know</h2>
 
 <div align="center" width="70%">
-	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=neovim&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=vim&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
 	<img src="https://img.shields.io/badge/markdown-%23.svg?&style=for-the-badge&logo=markdown&logoColor=F8F8F2&color=BD93F9">
